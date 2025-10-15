@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi there, I'm Mehtabul Islam Maruf 👋
+### 💫 About Me:
 
 🎓 2nd-year CSE student at BRAC University, Bangladesh  
 💻 Learning **Java** & building foundational programming projects
@@ -35,21 +33,23 @@
 
 ---
 
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mehtabulmaruf&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
 ### 📬 Connect
-[LinkedIn]([#](https://www.linkedin.com/in/mdmehtabulislam)) • [Email](mehtabulislammaruf@gmail.com)
+<p align="left">
+  <a href="https://www.facebook.com/Md.Mehtabul.Islam/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Md.Mehtabul.Islam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mehtabulislammaruf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ⭐ *“Learning one line, writing one line.”*
 
-**Mehtabul-Islam/mehtabul-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
