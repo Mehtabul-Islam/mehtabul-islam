@@ -40,7 +40,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtabul-islam&show_icons=true&theme=radical) 
+![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehtabul-Islam&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtabul-islam&layout=compact&theme=tokyonight)
 
 ---
