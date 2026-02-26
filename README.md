@@ -10,8 +10,8 @@
 - **CSE111 — Object-Oriented Programming (Java)** — classes, inheritance, polymorphism, encapsulation  
 - **CSE230 — Discrete Mathematics** — logic, sets, combinatorics, proofs  
 - **CSE320 — Data Communications** — networking basics, OSI/TCP-IP models, error detection
-- **CSE220 — Data Structures — arrays, linked lists, stacks, queues, recursion, trees, hashing, basic time complexity analysis
-- **CSE221 — Algorithms — sorting and searching algorithms, divide & conquer, greedy methods, dynamic programming, graph algorithms, time & space complexity analysis
+- **CSE220 — Data Structures** — arrays, linked lists, stacks, queues, recursion, trees, hashing, basic time complexity analysis
+- **CSE221 — Algorithms** — sorting and searching algorithms, divide & conquer, greedy methods, dynamic programming, graph algorithms, time & space complexity analysis
 ---
 
 ### 📬 Connect
