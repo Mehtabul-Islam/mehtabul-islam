@@ -1,6 +1,6 @@
 ### 💫 About Me:
 
-🎓 2nd-year CSE student at BRAC University, Bangladesh  
+🎓 3rd-year CSE student at BRAC University, Bangladesh  
 💻 Learning **Java** & building foundational programming projects
 
 ---
